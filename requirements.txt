@@ -1,0 +1,16 @@
+# macOS M1 翻译助手 - 依赖库
+# 安装命令: pip install -r requirements.txt
+
+# macOS 菜单栏（状态栏图标）
+rumps>=0.4.0
+
+# 现代 Tkinter GUI 框架
+customtkinter>=5.2.2
+
+# 全局快捷键监听（需要辅助功能权限）
+pynput>=1.7.6
+
+# OpenAI 兼容的 API 客户端
+openai>=1.14.0
+
+# 历史记录使用 Python 内置 sqlite3，无需额外安装
